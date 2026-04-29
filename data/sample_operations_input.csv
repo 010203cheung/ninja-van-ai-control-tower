@@ -1,0 +1,3 @@
+trip_id,driver_id,vehicle_id,route_zone,planned_dispatch_hour,distance_km,num_stops,hub_congestion,traffic_level,weather_rain,vehicle_mileage_km,days_since_service,driver_experience,current_load
+TRIP_A,D001,V001,Zone_A,9,12.5,8,0.7,0.8,1,190000,130,2,85
+TRIP_B,D002,V002,Zone_B,10,6.0,3,0.2,0.3,0,65000,45,5,40
